@@ -13,20 +13,15 @@ High Accuracy: Achieves 93% accuracy based on training data.
 
 Web-Based Interface: Users can upload data/images via a web app.
 
-Deployed Online: Hosted on Vercel/Heroku for easy access.
+Deployed Online: Hosted on Vercel
 
 🔧 Installation
 
-1️⃣ Clone the Repository
-
-git clone https://github.com/Shreya-196/PCOS-Detection-Model.git
-cd PCOS-Detection-Model
-
-2️⃣ Install Dependencies
+🌸 Install Dependencies
 
 pip install -r requirements.txt
 
-3️⃣ Run the Application
+🌸 Run the Application
 
 python app.py
 
@@ -42,7 +37,7 @@ Final Decision: Merges predictions from both models for a comprehensive diagnosi
 
 🚀 Deployment
 
-The project is deployed using Vercel/Heroku.
+The project is deployed using Vercel
 
 GUI:
 
